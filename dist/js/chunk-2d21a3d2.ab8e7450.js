@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d21a3d2"],{bb51:function(e,n,t){"use strict";t.r(n);var o=function(){var e=this,n=e.$createElement,t=e._self._c||n;return t("p",[e._v("Welcome to Note App")])},c=[],l={name:"Home"},u=l,a=t("2877"),p=Object(a["a"])(u,o,c,!1,null,null,null);n["default"]=p.exports}}]);
+//# sourceMappingURL=chunk-2d21a3d2.ab8e7450.js.map
